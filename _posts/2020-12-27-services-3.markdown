@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: cables.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Best practices
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Looking into the options available can be confusing for anyone. When the choices are obfuscated by design it will become even harder. We can help you find out what the best path is and advice you on what applications and tools to utilize. [image source](https://search.creativecommons.org/photos/8cc0e5a9-a1a7-4c72-9553-b1dcbaa199ea)
