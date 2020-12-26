@@ -5,7 +5,7 @@ category: Services
 title: Privacy consulting
 description: |
 ---
-  When utilizing the Internet you are always followed, your habits tracked and the profiles kept about you updated. If you feel like you require some assistance in both understanding what you can do to keep more to yourself or if you just want to make things harder for the data brokers we can help you. With basic changes to settings in your browser, small changes in habits and other trivial changes that are not presented unless you know where to look.
+  When utilizing the Internet you are always followed, your habits tracked and the profiles kept about you updated. If you feel like you require some assistance in both understanding what you can do to keep more to yourself or if you just want to make things harder for the data brokers we can help you. With basic changes to settings in your browser and small changes in habits.
   
   [image source](https://search.creativecommons.org/photos/6bde444c-8903-43dc-ae1e-fc7bb3e9756d)
   
