@@ -5,4 +5,6 @@ category: Services
 title: Best practices
 description: |
 ---
-  Looking into the options available can be confusing for anyone. When the choices are obfuscated by design it will become even harder. We can help you find out what the best path is and advice you on what applications and tools to utilize. [image source](https://search.creativecommons.org/photos/8cc0e5a9-a1a7-4c72-9553-b1dcbaa199ea)
+  Looking into the options available can be confusing for anyone. When the choices are obfuscated by design it will become even harder. We can help you find out what the best path is and advice you on what applications and tools to utilize. 
+  
+  [image source](https://search.creativecommons.org/photos/8cc0e5a9-a1a7-4c72-9553-b1dcbaa199ea)

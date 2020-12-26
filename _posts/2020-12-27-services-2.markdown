@@ -7,4 +7,4 @@ description: |
 ---
   As background noise of the Internet you are constantly being probed for weaknesses. It is not always easy to know how to be safe against a ever changeing threats and individuals looking for new ways to squeeze money out of you. Crypto-lockers are on the rise and the threats become evermore advanced in their methods and techniques. 
 
-[image source](https://search.creativecommons.org/photos/cebd67d3-62fd-4490-a680-23f7b7686a93)
+  [image source](https://search.creativecommons.org/photos/cebd67d3-62fd-4490-a680-23f7b7686a93)
