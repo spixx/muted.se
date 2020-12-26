@@ -1,4 +1,0 @@
-# Muted
-## Welcome
-
-## Services

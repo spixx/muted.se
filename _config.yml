@@ -1,3 +1,31 @@
-title: Muted services
-show_downloads: false
-theme: jekyll-theme-minimal
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://muted.se
+title: Muted
+email: hostmaster@muted.se
+author: Joakim Dellrud
+description: >
+  Muted assist in consulting privacy awarness and services to individuals or 
+  companies.
+copyright: ''
+credits: ''
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: Blog
+    url: https://b-landia.net
+  - title: Github
+    url: https://github.com/spixx
